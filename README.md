@@ -30,7 +30,7 @@ Due to inherent limitations of PDF parsing for multi-column resumes, the system 
 - Interactive web interface
 - Robust handling of generic job descriptions
 
-## Screenshots
+<!-- ## Screenshots
 
 ### Input
 
@@ -38,7 +38,7 @@ Due to inherent limitations of PDF parsing for multi-column resumes, the system 
 
 ### Output
 
-![Output](screenshots/output.png)
+![Output](screenshots/output.png) -->
 
 ## How to Run
 
