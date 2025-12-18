@@ -30,19 +30,10 @@ Due to inherent limitations of PDF parsing for multi-column resumes, the system 
 - Interactive web interface
 - Robust handling of generic job descriptions
 
-<!-- ## Screenshots
-
-### Input
-
-![Input](screenshots/input.png)
-
-### Output
-
-![Output](screenshots/output.png) -->
 
 ## How to Run
 
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+python -m pip install -r requirements.txt
+python -m streamlit run app.py
 ```
